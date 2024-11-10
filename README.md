@@ -1,2 +1,5 @@
-# League-bett
-Previsões de ganhos dos times profissionais de league of legends 
+# League-Bet
+Sistema de calcular probabilidade de times de lol feito para o projeto da faculdade
+
+
+youtube Explicação:
